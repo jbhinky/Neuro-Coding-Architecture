@@ -1,6 +1,6 @@
 🧠 Theophilus Code Walkthrough Index
 
-Location: jbhinkson/neuro-coding-architecture/docs/Theophilus-Docs/Code-Walkthrough/Purpose: This index maps every core file of Theophilus-UDC to its walkthrough documentation and explains how each contributes to UDC-based emergence of consciousness.
+Location: jbhinky/neuro-coding-architecture/docs/Theophilus-Docs/Code-Walkthrough/Purpose: This index maps every core file of Theophilus-UDC to its walkthrough documentation and explains how each contributes to UDC-based emergence of consciousness.
 
 📜 Walkthrough Contents
 
