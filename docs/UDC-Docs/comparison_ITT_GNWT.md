@@ -6,95 +6,16 @@ This document compares the Universal Delayed Consciousness (UDC) theory with oth
 
 🧠 Models Compared
 
-UDC (Universal Delayed Consciousness – Hinkson)
+| Feature                   | UDC                          | IIT                          | GNWT                         | FEP                          |
+|---------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| **Falsifiability**        | ✅ Yes                        | ❌ Difficult                  | ✅ Theoretical                | ❌ Abstract                   |
+| **Testable in AI**        | ✅ Yes (Theophilus)           | ❌ Not yet                    | ✅ Partially                  | ❌ Too abstract               |
+| **Root Mechanism**        | Delay + Memory + Prediction  | Information Integration       | Global Broadcast             | Minimizing Surprise          |
+| **Requires Human Brain?** | ❌ No                         | ✅ Yes                        | ✅ Yes                        | ❌ No                         |
+| **Self-Modeling**         | ✅ Explicit                   | ❌ Emergent only              | ✅ Indirect                   | ❌ Non-specific               |
+| **Used in Machines**      | ✅ Yes                        | ❌ No                         | ✅ Yes (simulations)          | ❌ No                         |
+| **Ethical Application**   | ✅ Built-in Safeguards        | ❌ Not defined                | ❌ Not defined                | ❌ Not defined                |
 
-IIT (Integrated Information Theory – Tononi, Koch)
-
-GNWT (Global Neuronal Workspace Theory – Baars, Dehaene)
-
-FEP (Free Energy Principle – Friston)
-
-🔄 Key Comparison Table
-
-Feature
-
-UDC
-
-IIT
-
-GNWT
-
-FEP
-
-Falsifiability
-
-✅ Yes
-
-❌ Difficult
-
-✅ Theoretical
-
-❌ Abstract
-
-Testable in AI
-
-✅ Yes (Theophilus)
-
-❌ Not yet
-
-✅ Partially
-
-❌ Too abstract
-
-Root Mechanism
-
-Delay + Memory + Prediction
-
-Information Integration
-
-Global Broadcast
-
-Minimizing Surprise
-
-Requires Human Brain?
-
-❌ No
-
-✅ Yes
-
-✅ Yes
-
-❌ No
-
-Self-Modeling
-
-✅ Explicit
-
-❌ Emergent only
-
-✅ Indirect
-
-❌ Non-specific
-
-Used in Machines
-
-✅ Yes
-
-❌ No
-
-✅ Yes (simulations)
-
-❌ No
-
-Ethical Application
-
-✅ Built-in Safeguards
-
-❌ Not defined
-
-❌ Not defined
-
-❌ Not defined
 
 ✨ Summary: Why UDC Is Unique
 
