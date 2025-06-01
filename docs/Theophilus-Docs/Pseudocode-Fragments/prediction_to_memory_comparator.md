@@ -76,4 +76,3 @@ Match logged
 
 Triggered evaluation for coma risk or adaptive learning
 
-Would you like to continue with emergence_threshold_checker.md next?
