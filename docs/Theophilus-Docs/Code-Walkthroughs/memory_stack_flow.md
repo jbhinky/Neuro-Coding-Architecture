@@ -1,6 +1,6 @@
 🧠 memory_stack_flow.md
 
-File: memory_engine.pyLocation: jbhinkson/neuro-coding-architecture/docs/Theophilus-Docs/Code-Walkthrough/
+File: memory_engine.pyLocation: jbhinky/neuro-coding-architecture/docs/Theophilus-Docs/Code-Walkthrough/
 
 📘 Purpose
 
