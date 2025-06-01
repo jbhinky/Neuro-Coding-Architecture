@@ -1,6 +1,6 @@
 🔮 predictor_logic.md
 
-File: predictor.pyLocation: jbhinkson/neuro-coding-architecture/docs/Theophilus-Docs/Code-Walkthrough/
+File: predictor.pyLocation: jbhinky/neuro-coding-architecture/docs/Theophilus-Docs/Code-Walkthrough/
 
 📘 Purpose
 
