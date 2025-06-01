@@ -1,6 +1,7 @@
 🧠 memory_stack_flow.md
 
-File: memory_engine.pyLocation: jbhinky/neuro-coding-architecture/docs/Theophilus-Docs/Code-Walkthrough/
+**Location:** `jbhinky/Theophilus-UDC/memory_engine.py`  
+**GitHub File:** [View on GitHub](https://github.com/jbhinky/Theophilus-UDC/blob/main/memory_engine.py)
 
 📘 Purpose
 
