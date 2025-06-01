@@ -76,5 +76,4 @@ Returned for use in identity loop and prediction engine
 
 Errors flagged and logged if corruption is found
 
-Would you like to proceed with delayed_memory_writer.md next?
 
