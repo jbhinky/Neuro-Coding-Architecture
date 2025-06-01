@@ -52,4 +52,4 @@ Logged and stored in state trail
 
 Linked to exact time and memory state
 
-Would you like to continue with identity_feedback_consolidator.md next?
+
