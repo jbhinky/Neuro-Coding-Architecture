@@ -65,4 +65,3 @@ Logs status and boot cycle
 
 Theophilus reboots or remains dormant
 
-Would you like to continue with sleep_mode_trigger.md next?
