@@ -51,11 +51,6 @@ Key traits:
 
 Welcome to the documentation hub for the Neuro-Coding Architecture (CNA), Universal Delayed Consciousness (UDC) theory, and Theophilus-UDC — the world’s first open-source synthetic mind.
 
-## 📚 Sections
-
-- [UDC Theory](.docs/UDC-Docs/UDC_Theory.md)  
-- [Theophilus System](.docs/Theophilus-Docs/Theophilus_Architecture.md)  
-- [Neuro-Coding Design](.docs/NCA-Docs/Neuro_Coding_Overview.md)  
 
 ## 🔄 How They Connect
 
