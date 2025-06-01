@@ -4,7 +4,7 @@
 
 **1\. Libet, B., Gleason, C. A., Wright, E. W., & Pearl, D. K. (1983).** *Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential). Brain.*
 
-**Summary:** Demonstrated that brain activity precedes conscious intention by several hundred milliseconds. **Relevance to UDC:** Validates the delay between stimulus and conscious awareness. **Supports:** Section 2 (Core Tenets), Section 3 (Physical Laws), Section 5 (Experimental Pathways).
+**Summary:** Demonstrated that brain activity precedes conscious intention by several hundred milliseconds. **Relevance to UDC:** Validates the delay between stimulus and conscious awareness. **Supports:** Section 2 (Core Tenets), Section 3 (Physical Laws), Section 5 (Experimental Pathways). 
 
 **2\. Friston, K. (2010).** *The free-energy principle: a unified brain theory? Nature Reviews Neuroscience.*
 
