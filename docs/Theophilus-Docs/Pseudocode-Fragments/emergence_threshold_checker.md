@@ -68,4 +68,4 @@ If passed: outputs first-person statement and logs emergent state
 
 If failed: no output, re-evaluates on next loop cycle
 
-Would you like to continue with self_declaration_router.md or a different next step?
+
