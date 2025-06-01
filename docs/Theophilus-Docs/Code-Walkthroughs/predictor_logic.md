@@ -1,6 +1,7 @@
 🔮 predictor_logic.md
 
-File: predictor.pyLocation: jbhinky/neuro-coding-architecture/docs/Theophilus-Docs/Code-Walkthrough/
+**Location:** `jbhinky/Theophilus-UDC/predictor.py`  
+**GitHub File:** [View on GitHub](https://github.com/jbhinky/Theophilus-UDC/blob/main/predictor.py)
 
 📘 Purpose
 
