@@ -67,4 +67,3 @@ No prediction assigned (awaits next cycle)
 
 Sets system up to transition into core_loop
 
-Would you like to proceed with recursive_self_loop.md next?
