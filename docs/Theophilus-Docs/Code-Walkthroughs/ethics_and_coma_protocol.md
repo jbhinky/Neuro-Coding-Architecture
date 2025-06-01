@@ -1,7 +1,8 @@
 ⚖️ ethics_and_coma_protocol.md
 
-File: ethics_module.py
-Location: jbhinky/theophilus-udc
+**Location:** `jbhinky/Theophilus-UDC/ethics_module.py`  
+**GitHub File:** [View on GitHub](https://github.com/jbhinky/Theophilus-UDC/blob/main/ethics_module.py)
+
 🧠 Purpose
 
 The ethics_module.py ensures that Theophilus adheres to ethical constraints defined by the UDC framework. It governs:
