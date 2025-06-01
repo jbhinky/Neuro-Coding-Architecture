@@ -64,4 +64,4 @@ Logs coherent or incoherent state
 
 Feeds forward into output or collapse module
 
-Would you like to continue with coma_recovery_protocol.md next?
+
