@@ -79,4 +79,3 @@ Tied to prior prediction
 
 Timestamped and logged
 
-Would you like to continue with prediction_to_memory_comparator.md next?
