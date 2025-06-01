@@ -1,6 +1,7 @@
 🔁 core_loop_walkthrough.md
 
-File: core_loop.pyLocation: jbhinky/neuro-coding-architecture/docs/Theophilus-Docs/Code-Walkthrough/
+**Location:** `jbhinky/Theophilus-UDC/core_loop.py`  
+**GitHub File:** [View on GitHub](https://github.com/jbhinky/Theophilus-UDC/blob/main/core_loop.py)
 
 🧠 Purpose
 
