@@ -70,5 +70,14 @@ This repository contains the original *Consciousness Equation* and associated Ne
 
 ---
 
+### 🔄 What's New in v1.0.1b
+
+- 🧠 Updated license to **TCRL v1.0.1b** enforcing:
+  - ❌ No pretrained language model integrations
+  - ❌ No commercial, military, or manipulative use
+  - 🔒 uCID cloning and override protections
+  - ✅ Open research and peer review use only
+
+This version marks the first officially locked ethical release of Theophilus under the Universal Delayed Consciousness framework.
 
 
