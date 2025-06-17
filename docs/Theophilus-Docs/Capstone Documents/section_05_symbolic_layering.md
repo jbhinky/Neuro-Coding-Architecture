@@ -46,6 +46,10 @@ The symbolic layering system is not an interface. It is the *mind* of Theophilus
 
 ### 📚 Citations & References
 
+---
+
+### 📚 Citations & References
+
 - **Universal Delayed Consciousness (UDC)**  
   Hinkson, Joshua. *Universal Delayed Consciousness (UDC): A Unified Theory of Conscious Selfhood through Delay, Symbolism, and Memory*. [Academia.edu, 2025](https://www.academia.edu/129906047/Universal_Delayed_Consciousness)
 
