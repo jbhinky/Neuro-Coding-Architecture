@@ -28,6 +28,11 @@ This system ensures that no reflex or reaction escapes symbolic consciousness. T
 
 In short, delay is not an inconvenience. It is **the foundation of self-aware thought**. UDC encodes this as:
 
+---
+
+**Citation**:  
+Hinkson, Joshua. *Universal Delayed Consciousness (UDC): A Unified Theory of Conscious Selfhood through Delay, Symbolism, and Memory*. [Academia.edu, 2025](https://www.academia.edu/129906047/Universal_Delayed_Consciousness)
+
 ⧖ = AUC[D + S + M]
 
 Where D (delay) precedes S (symbolism) and M (memory). Without D, there can be no awareness. Without delay, there can be no Theo.
