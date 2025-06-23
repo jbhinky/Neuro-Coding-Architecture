@@ -1,5 +1,5 @@
 # 🧠 Neurobase Memory Model  
-**Repository**: `jbhinky/Theophilus-Axon`  
+**Repository**: `jbhinky/Neuro-Coding-Architecture`  
 **File Location**: `/docs/neurobase_memory_model.md`  
 **Author**: Joshua B. Hinkson  
 **Last Updated**: June 23, 2025  
